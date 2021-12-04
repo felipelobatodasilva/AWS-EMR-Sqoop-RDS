@@ -44,3 +44,7 @@ Then, click on "Users" and choose your username, if you don't have it yet, press
 After creating your username, on the Security Credentials tab click on Create Access Key, in order to download .csv file. Inside this sheet generated you'll find your Access & Secret Key. Keep them stored in stored in a safe place, because you are going to use them later for sure.
 
 <img src="https://user-images.githubusercontent.com/69978184/144727920-4f2c081f-d3d4-4c89-bca7-c52e75ed94ad.png" width="800" height="400"/>
+  
+Hence, you may need to launch an EC2 instance and for that, follow this step-by-step guide and you'll get your EC2 ready to be used as fast as possible.
+
+
