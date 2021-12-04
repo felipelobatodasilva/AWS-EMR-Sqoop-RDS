@@ -30,4 +30,4 @@ Amazon Simple Storage Service (Amazon S3) offers an object storage service for t
 
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
-First of all, We will set up Clou9 along with EC2.
+More than anything, you'll need to set up Cloud9 [*resolved*]
