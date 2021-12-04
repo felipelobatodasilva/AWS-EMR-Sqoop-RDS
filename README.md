@@ -2,10 +2,10 @@
 
 # Table of Contents
 
-● [Overview](#overview)<br/>
+● [Project Overview](#overview)<br/>
 ● [Setting up Cloud9 for EC2](#settingupClou9)<br/>
 
-## Overview <a name="overview"></a>
+## Project Overview <a name="overview"></a>
 
 For this project, we're gonna use EC2, Cloud9, EMR, S3 and RDS as follow with their respective brief explanation, in order to undertand a little bit about what each of them can do and why is used for
 
