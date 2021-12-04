@@ -35,6 +35,4 @@ More than anything, you'll need to set up Cloud9, but before that is needed to g
 
 For that, you just need to go throgh AWS Console Management and click on IAM as follows
 
-<img src="https://user-images.githubusercontent.com/69978184/144727763-7713dda9-90de-44e2-8b9f-d89a7ff6de52.png" width="800" height="400"/>
-
 <img src="https://user-images.githubusercontent.com/69978184/144727778-3933843e-8269-4cff-978f-f27e166f42c7.png" width="800" height="400"/>
