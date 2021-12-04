@@ -31,4 +31,12 @@ Amazon Simple Storage Service (Amazon S3) offers an object storage service for t
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
-More than anything, you'll need to set up Cloud9
+More than anything, you'll need to set up Cloud9, but before that is needed to get your access key and Secret Key.
+
+For that, you just need to go throgh AWS Console Management and click on IAM as follows
+
+<img src="https://user-images.githubusercontent.com/69978184/144727763-7713dda9-90de-44e2-8b9f-d89a7ff6de52.png" width="800" height="400"/>
+
+
+
+
