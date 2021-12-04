@@ -1,5 +1,8 @@
 # EMR-Sqoop-RDS
 
+# Table of Contents  
+● [Setting up EMR](#settingupEMR)<br/>
+
 For this project, we're gonna use EC2, Cloud9, EMR, S3 and RDS 
 
 [__EMR__](https://medium.com/analytics-vidhya/apache-spark-applications-with-amazon-emr-and-s3-services-using-jupyter-notebook-41968a1c2d7) -> Before starting this project, we have to understand what is EMR and why this one is used.
@@ -21,8 +24,6 @@ Amazon Simple Storage Service (Amazon S3) offers an object storage service for t
 
 [__Cloud9__](https://aws.amazon.com/cloud9/) -> AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal. Cloud9 comes prepackaged with essential tools for popular programming languages, including JavaScript, Python, PHP, and more, so you don’t need to install files or configure your development machine to start new projects.
 
-# Table of Contents  
-● [Setting up EMR](#settingupEMR)<br/>
 
 ## Setting up EMR <a name="settingupEMR"></a>
 
