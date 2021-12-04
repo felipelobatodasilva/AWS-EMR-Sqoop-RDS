@@ -15,9 +15,7 @@ Amazon Elastic MapReduce (EMR) is an Amazon Web Services (AWS) platform for big 
 
 EMR provides scalable, flexible and fast computing over petabyte-sized large data.
 
-[__Sqoop__](https://www.javatpoint.com/what-is-sqoop) -> Sqoop is a command-line interface application for transferring data between relational databases and Hadoop
-
-It supports incremental loads of a single table or a free form SQL query as well as saved jobs which can be run multiple times to import updates made to a database since the last import.Using Sqoop, Data can be moved into HDFS/hive/hbase from MySQL/ PostgreSQL/Oracle/SQL Server/DB2 and vise versa.
+With EMR usage, one can use [Sqoop](https://www.javatpoint.com/what-is-sqoop)) and its command-line interface application function for transferring data between relational databases and Hadoop. By Using this one Data can be moved into HDFS/hive/hbase from MySQL/ PostgreSQL/Oracle/SQL Server/DB2 and vise versa.
 
 [__RDS__](https://searchaws.techtarget.com/definition/Amazon-Relational-Database-Service-RDS) -> Amazon Relational Database Service (RDS) is a managed SQL database service provided by Amazon Web Services (AWS). Amazon RDS supports an array of database engines to store and organize data. It also helps with relational database management tasks, such as data migration, backup, recovery and patching.
 
