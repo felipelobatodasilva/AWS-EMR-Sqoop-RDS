@@ -1,9 +1,13 @@
 # EMR-Sqoop-RDS
 
-# Table of Contents  
+# Table of Contents
+
+● [Overview](#overview)<br/>
 ● [Setting up EMR](#settingupEMR)<br/>
 
-For this project, we're gonna use EC2, Cloud9, EMR, S3 and RDS 
+## Overview <a name="overview"></a>
+
+For this project, we're gonna use EC2, Cloud9, EMR, S3 and RDS as follow with their respective brief explanation, in order to undertand a little bit about what each of them can do and why is used for
 
 [__EMR__](https://medium.com/analytics-vidhya/apache-spark-applications-with-amazon-emr-and-s3-services-using-jupyter-notebook-41968a1c2d7) -> Before starting this project, we have to understand what is EMR and why this one is used.
 
@@ -24,7 +28,8 @@ Amazon Simple Storage Service (Amazon S3) offers an object storage service for t
 
 [__Cloud9__](https://aws.amazon.com/cloud9/) -> AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal. Cloud9 comes prepackaged with essential tools for popular programming languages, including JavaScript, Python, PHP, and more, so you don’t need to install files or configure your development machine to start new projects.
 
+[__EC2__](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) -> Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
 
-## Setting up EMR <a name="settingupEMR"></a>
+## Setting up Cloud9 for EC2 <a name="settingupEMR">
 
-We'll need to set up the EMR environment for Sqoop
+First of all, We will set up Clou9 along with EC2.
