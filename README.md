@@ -43,7 +43,7 @@ On the next Screen, it's recommended to click on "Go to advanced options", becau
 
 <img src="https://user-images.githubusercontent.com/69978184/144752616-43605f2d-4647-4596-aa03-e22969c147f1.png" width="800" height="400"/>
 
-<img src="https://user-images.githubusercontent.com/69978184/144752728-7ecd0757-81be-47c1-b537-fe9c4dabb30f.png" width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/144752843-920ac58d-ca76-4d8a-9f7a-f49c50d15770.png" width="800" height="400"/>
 
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
