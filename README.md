@@ -73,7 +73,7 @@ To fix this issue, you may request a [limit increase](https://aws.amazon.com/es/
 
 You may see how much do you need by checking it in the Limits Calculator Section
 
-<img src="https://user-images.githubusercontent.com/69978184/144757550-3b616bac-7eba-4a11-b8e0-eb7053e1a512.png" width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/144757550-3b616bac-7eba-4a11-b8e0-eb7053e1a512.png" width="600" height="400"/>
 
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
