@@ -3,6 +3,7 @@
 # Table of Contents
 
 ● [Project Overview](#overview)<br/>
+● [Setting up EMR](#settingupEMR)<br/>
 ● [Setting up Cloud9 for EC2](#settingupClou9)<br/>
 
 ## Project Overview <a name="overview"></a>
