@@ -31,6 +31,11 @@ Amazon Simple Storage Service (Amazon S3) offers an object storage service for t
 
 ## Setting up EMR <a name="settingupEMR">
 
+To create an EMR cluster go through AWS Console Management and look for EMR on the search field.
+
+
+<img src="https://user-images.githubusercontent.com/69978184/144752224-b19a9c6b-4c32-4561-ac76-aa45ff7662c9.png" width="800" height="400"/>
+  
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
