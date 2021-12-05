@@ -63,6 +63,18 @@ On the next Screen, it's recommended to click on "Go to advanced options", becau
  
  <img src="https://user-images.githubusercontent.com/69978184/144754052-553b6eb1-615e-4cc8-96b6-d13e2e4c3a6c.png" width="800" height="400"/>
 
+Now you may see that he tried for several times to create this cluster, but it didn't work properly, as shown below
+ 
+ <img src="https://user-images.githubusercontent.com/69978184/144757298-c7e9e9e2-f1b0-4423-bc6a-96d015ca9a75.png" width="800" height="400"/>
+ 
+it happens according to the error, due to lack of available instances, in other words The number of vCPUs for instance type m5.xlarge exceeds the EC2 service quota for that type.
+
+To fix this issue, you may request a [limit increase](https://aws.amazon.com/es/premiumsupport/knowledge-center/ec2-on-demand-instance-vcpu-increase/) 
+
+You may see how much do you need by checking it in the Limits Calculator Section
+
+<img src="https://user-images.githubusercontent.com/69978184/144757550-3b616bac-7eba-4a11-b8e0-eb7053e1a512.png" width="800" height="400"/>
+
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
