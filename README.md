@@ -47,4 +47,4 @@ After creating your username, on the Security Credentials tab click on Create Ac
   
 Hence, you may need to launch an EC2 instance and for that, follow this step-by-step guide and you'll get your EC2 ready to be used as fast as possible.
 
-
+As soon as you've finished the EC2 launch process, you may connect 
