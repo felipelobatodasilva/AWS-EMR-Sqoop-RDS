@@ -55,6 +55,10 @@ On the next Screen, it's recommended to click on "Go to advanced options", becau
 
  <img src="https://user-images.githubusercontent.com/69978184/144753612-11bc3ae4-13eb-4013-a7e6-306893022b0f.png" width="800" height="400"/>
 
+ 3) On the third step is where you give the name to your cluster and enable the option Logging inside your S3
+ 
+ <img src="https://user-images.githubusercontent.com/69978184/144753851-b42b2260-0fa8-40c1-acee-595a69d6518a.png" width="800" height="400"/>
+
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
