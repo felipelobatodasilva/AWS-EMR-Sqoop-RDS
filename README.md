@@ -43,6 +43,8 @@ On the next Screen, it's recommended to click on "Go to advanced options", becau
 
 <img src="https://user-images.githubusercontent.com/69978184/144752616-43605f2d-4647-4596-aa03-e22969c147f1.png" width="800" height="400"/>
 
+<img src="https://user-images.githubusercontent.com/69978184/144752728-7ecd0757-81be-47c1-b537-fe9c4dabb30f.png" width="800" height="400"/>
+
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
