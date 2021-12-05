@@ -52,3 +52,5 @@ As soon as you've finished the EC2 launch process, it is about time to connect i
 From AWS Management Console, inside the Developer Tools choose Cloud9 and then click on Create Environment button
 
 <img src="https://user-images.githubusercontent.com/69978184/144729559-4337c701-e213-4d4c-8efb-d81314188bc4.png" width="800" height="400"/>
+  
+https://towardsdatascience.com/how-to-create-and-run-an-emr-cluster-using-aws-cli-3a78977dc7f0
