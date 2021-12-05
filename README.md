@@ -48,6 +48,11 @@ On the next Screen, it's recommended to click on "Go to advanced options", becau
 For this first step just fill all the specific fields you need to
  
 <img src="https://user-images.githubusercontent.com/69978184/144753005-b9357f4a-2ed9-4a46-bfdb-eb0c1337c945.png" width="800" height="400"/>
+ 
+For the second step you'll need to select a node to work with
+
+
+<img src="https://user-images.githubusercontent.com/69978184/144753478-f0a36e89-7fd1-4842-99a0-cf5d501344ac.png" width="800" height="400"/>
 
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
