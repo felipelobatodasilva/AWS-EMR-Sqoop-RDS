@@ -33,7 +33,7 @@ Amazon Simple Storage Service (Amazon S3) offers an object storage service for t
 <!-- [link](https://www.knowledgehut.com/tutorials/aws/hadoop-cluster) -->
 To create an EMR cluster go through AWS Console Management and look for EMR on the search field and click on it.
  
-<img src="https://user-images.githubusercontent.com/69978184/144752224-b19a9c6b-4c32-4561-ac76-aa45ff7662c9.png" width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/69978184/144752224-b19a9c6b-4c32-4561-ac76-aa45ff7662c9.png" width="500" height="400"/>
 
 Hence, click on "Create cluster" to start the creation of your cluster
 
