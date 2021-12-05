@@ -59,7 +59,7 @@ On the next Screen, it's recommended to click on "Go to advanced options", becau
  
  <img src="https://user-images.githubusercontent.com/69978184/144753851-b42b2260-0fa8-40c1-acee-595a69d6518a.png" width="800" height="400"/>
 
- 4) On the fourth step you select the EC2 Key Pair creadted previously
+ 4) On the fourth step you select the EC2 Key Pair created previously
  
  <img src="https://user-images.githubusercontent.com/69978184/144754052-553b6eb1-615e-4cc8-96b6-d13e2e4c3a6c.png" width="800" height="400"/>
 
