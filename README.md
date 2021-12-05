@@ -39,7 +39,10 @@ Hence, click on "Create cluster" to start the creation of your cluster
 
 <img src="https://user-images.githubusercontent.com/69978184/144752267-17d5f83f-15b6-49af-b817-a3815a0b0f8d.png" width="800" height="400"/>
 
-On the next Screen, it's recommended to click on "Go to advanced options"
+On the next Screen, it's recommended to click on "Go to advanced options", because all of those softwares available and related to EMR can be selected and installed
+
+<img src="https://user-images.githubusercontent.com/69978184/144752616-43605f2d-4647-4596-aa03-e22969c147f1.png" width="800" height="400"/>
+
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
