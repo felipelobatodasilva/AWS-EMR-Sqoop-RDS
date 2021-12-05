@@ -47,4 +47,8 @@ After creating your username, on the Security Credentials tab click on Create Ac
   
 Hence, you may need to launch an EC2 instance and for that, follow this step-by-step guide and you'll get your EC2 ready to be used as fast as possible.
 
-As soon as you've finished the EC2 launch process, you may connect 
+As soon as you've finished the EC2 launch process, it is about time to connect it with AWS cloud 9
+  
+From AWS Management Console, inside the Developer Tools choose Cloud9 and then click on Create Environment button
+
+<img src="https://user-images.githubusercontent.com/69978184/144729559-4337c701-e213-4d4c-8efb-d81314188bc4.png" width="800" height="400"/>
