@@ -61,7 +61,7 @@ On the next Screen, it's recommended to click on "Go to advanced options", becau
 
  4) On the fourth step you select the EC2 Key Pair created previously
  
- <img src="https://user-images.githubusercontent.com/69978184/144754052-553b6eb1-615e-4cc8-96b6-d13e2e4c3a6c.png" width="800" height="400"/>
+ <img src="https://user-images.githubusercontent.com/69978184/144758365-97c91ba7-77f9-4194-954d-06de33dafbc8.png" width="800" height="400"/>
 
 Now you may see that he tried for several times to create this cluster, but it didn't work properly, as shown below
  
