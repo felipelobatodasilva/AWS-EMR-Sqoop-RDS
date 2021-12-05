@@ -80,6 +80,8 @@ Then request service limit increase and open chat one of the AWS representative
 <img src="https://user-images.githubusercontent.com/69978184/144757615-11962ddb-9a06-45f4-bc62-eeee0a23286a.png" width="600" height="400"/>
  
 <img src="https://user-images.githubusercontent.com/69978184/144757884-d3342d23-64b3-49fd-a550-59e318e7c7d4.png" width="600" height="400"/>
+ 
+and now, the only thing you can do is just to await! :). Within some day, they're gonna give to you a feedback about your request opened.
 
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
