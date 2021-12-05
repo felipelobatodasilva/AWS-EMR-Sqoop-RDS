@@ -29,7 +29,7 @@ Amazon Simple Storage Service (Amazon S3) offers an object storage service for t
 
 [__EC2__](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) -> Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
 
-## Setting up EMR <a name="settingupEMR">
+## Setting up EMR <a name="settingupEMR"></a>
 <!-- [link](https://www.knowledgehut.com/tutorials/aws/hadoop-cluster) -->
 To create an EMR cluster go through AWS Console Management and look for EMR on the search field and click on it.
  
