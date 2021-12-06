@@ -67,7 +67,7 @@ Now you may see that he tried for several times to create this cluster, but it d
  
  <img src="https://user-images.githubusercontent.com/69978184/144757298-c7e9e9e2-f1b0-4423-bc6a-96d015ca9a75.png" width="800" height="400"/>
  
-it happens according to the error, due to lack of available instances, in other words, the number of vCPUs for instance type m5.xlarge exceeds the EC2 service quota for that type.
+Here is an error and this one happens due to lack of available instances, in other words, the number of vCPUs for instance type m5.xlarge exceeds the EC2 service quota for that type.
 
 To fix this issue, you may request a [limit increase](https://aws.amazon.com/es/premiumsupport/knowledge-center/ec2-on-demand-instance-vcpu-increase/) 
 
