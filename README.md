@@ -88,7 +88,7 @@ and now, the only thing you can do is just to await! :). Within some days, they'
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
 More than anything, you'll need to set up Cloud9, but before that is needed to get your access key and Secret Key.
 
-For that, you just need to go throgh AWS Console Management and click on IAM as follows
+For that, you just need to go through AWS Console Management and click on IAM as follows
 
 <img src="https://user-images.githubusercontent.com/69978184/144727778-3933843e-8269-4cff-978f-f27e166f42c7.png" width="800" height="400"/>
   
