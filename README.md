@@ -63,7 +63,7 @@ On the next Screen, it's recommended to click on "Go to advanced options", becau
  
  <img src="https://user-images.githubusercontent.com/69978184/144758365-97c91ba7-77f9-4194-954d-06de33dafbc8.png" width="800" height="400"/>
 
-Now you may see that he tried for several times to create this cluster, but it didn't work properly, as shown below
+Now you may see that we tried for several times to create this cluster, but it didn't work properly, as shown below
  
  <img src="https://user-images.githubusercontent.com/69978184/144757298-c7e9e9e2-f1b0-4423-bc6a-96d015ca9a75.png" width="800" height="400"/>
  
