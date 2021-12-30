@@ -83,6 +83,13 @@ Then request service limit increase and open chat one of the AWS representative
  
 and now, the only thing you can do is just to await! :). Within some days, they're gonna give to you a feedback about your request opened.
 
+It takes a certain time to be uploaded the status of this opened case along with support team from AWS, but here is the answer coming from them:
+
+ <img src="https://user-images.githubusercontent.com/69978184/147771497-7f272113-bb08-4a3d-bb3a-9c8cb885a7af.png" width="800" height="400"/>
+
+
+
+
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
