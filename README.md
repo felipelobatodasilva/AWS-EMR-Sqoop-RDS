@@ -87,7 +87,11 @@ It takes a certain time to be uploaded the status of this opened case along with
 
  <img src="https://user-images.githubusercontent.com/69978184/147771497-7f272113-bb08-4a3d-bb3a-9c8cb885a7af.png" width="800" height="400"/>
 
+Let is check whether it works!
 
+ <img src="https://user-images.githubusercontent.com/69978184/147772628-38e04eeb-6b27-4d7b-8698-7b63ed94d546.png" width="800" height="400"/>
+
+As you can see everything is working normally :)
 
 
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
