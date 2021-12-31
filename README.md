@@ -7,6 +7,7 @@
 ● [Setting up Cloud9](#settingupClou9)<br/>
 <!--&emsp;◌ [Linking Cloud9 to EMR via Security Group](#linkingcloud9)<br/>-->
 <!--● [Setting up Cloud9 for EC2](#settingupClou9)<br/>-->
+● [Iniatilizing EMR on Cloud9](#initializingEMR)<br/>
 
 ## Project Overview <a name="overview"></a>
 
@@ -157,3 +158,5 @@ To link both, complete the following steps:
 1. Clone Cluster and Wait until this one is ready to be run<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147828431-a1b5854d-f006-41c6-b39a-a7815c54815f.png" width="800" height="400"/><br/>
 -->
+
+## Iniatilizing EMR on Cloud9 <a name="initializingEMR"></a>
