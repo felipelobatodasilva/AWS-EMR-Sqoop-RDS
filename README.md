@@ -160,3 +160,5 @@ To link both, complete the following steps:
 -->
 
 ## Iniatilizing EMR on Cloud9 <a name="initializingEMR"></a>
+
+To start this process go through AWS Console Management and look for Cloud9 on the search field and click on it.
