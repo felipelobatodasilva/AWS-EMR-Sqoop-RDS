@@ -167,16 +167,17 @@ To initialize EMR on Cloud9, complete the following steps:
 
 1. Open IDE<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831069-d8bf69cf-290b-4022-8266-17b04cfd0619.png" width="800" height="400"/><br/>
-2. Type ssh -i dev.pem hadoop@(DNS from your EMR Cluster)
+2. Type ssh -i dev.pem hadoop@(DNS from your EMR Cluster)<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831238-bd986340-4e53-4d4e-9f19-e5d157e2854b.png" width="800" height="400"/><br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831266-c8cbfd90-b312-4b30-9bdb-ecebbda2f96f.png" width="800" height="400"/><br/>
-3. Add .pem file to the directory by clicking on Upload Local Files
+3. Add .pem file to the directory by clicking on Upload Local Files<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831314-7b88d869-8b38-4f41-80da-316e026d289c.png" width="800" height="400"/><br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831356-540005ff-0f58-4a03-b15d-3104f189784f.png" width="800" height="400"/><br/>
-4. Type ssh -i dev.pem hadoop@(DNS from your EMR Cluster) again and now it works
+4. Type ssh -i dev.pem hadoop@(DNS from your EMR Cluster) again<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831416-97446f8d-9d45-4921-90c6-dc0d7d01fd40.png" width="800" height="400"/><br/>
-
-![image](https://user-images.githubusercontent.com/69978184/147831529-6f938423-df10-493c-9490-0a1d19e273ea.png)
+5. Type yes<br/>
+Even if you type yes to keep going, it is displayed a warning of permissions
+<img src="https://user-images.githubusercontent.com/69978184/147831529-6f938423-df10-493c-9490-0a1d19e273ea.png" width="800" height="400"/><br/>
 
 
 
