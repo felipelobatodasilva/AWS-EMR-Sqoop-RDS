@@ -137,6 +137,6 @@ Then, you just need to click on "Create Environment" button and you'll go throug
 To create cloud9, complete the following steps:
 
 1. Give a name to your environment<br/>
-<img src="https://user-images.githubusercontent.com/69978184/147826442-f082bdc5-e4c5-405e-ae93-015c4d1c097d.png" width="800" height="400"/>
-
-
+<img src="https://user-images.githubusercontent.com/69978184/147826442-f082bdc5-e4c5-405e-ae93-015c4d1c097d.png" width="800" height="400"/><br/>
+2. Select the settings for your environment<br/>
+<img src="https://user-images.githubusercontent.com/69978184/147826721-3f2232f7-5345-4519-bc22-87581650599b.png" width="800" height="400"/><br/>
