@@ -4,7 +4,8 @@
 
 ● [Project Overview](#overview)<br/>
 ● [Setting up EMR](#settingupEMR)<br/>
-● [Setting up Cloud9 for EC2](#settingupClou9)<br/>
+<!--● [Setting up Cloud9 for EC2](#settingupClou9)<br/>-->
+● [Setting up Cloud9](#settingupClou9)
 
 ## Project Overview <a name="overview"></a>
 
@@ -123,3 +124,6 @@ From AWS Management Console, inside the Developer Tools choose Cloud9 and then c
  https://towardsdatascience.com/how-to-create-and-run-an-emr-cluster-using-aws-cli-3a78977dc7f0
 https://www.youtube.com/watch?v=zqyOOyOlcAk
 -->
+
+
+## Setting up Cloud9 <a name="settingupClou9"></a>
