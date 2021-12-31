@@ -175,8 +175,7 @@ To initialize EMR on Cloud9, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/147831356-540005ff-0f58-4a03-b15d-3104f189784f.png" width="800" height="400"/><br/>
 4. Type ssh -i dev.pem hadoop@(DNS from your EMR Cluster) again<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831416-97446f8d-9d45-4921-90c6-dc0d7d01fd40.png" width="800" height="400"/><br/>
-5. Type yes<br/>
-
+5. Type yes to Keep Going<br/>
 Even if you type yes to keep going, it is displayed a warning of permissions<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831529-6f938423-df10-493c-9490-0a1d19e273ea.png" width="800" height="250"/><br/>
 
