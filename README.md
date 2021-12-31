@@ -94,7 +94,7 @@ Let is check whether it works!
 As you can see everything is working normally :)
 
 
-
+<!-- 
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
 <!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
@@ -122,4 +122,5 @@ From AWS Management Console, inside the Developer Tools choose Cloud9 and then c
   
 <!-- https://towardsdatascience.com/how-to-create-and-run-an-emr-cluster-using-aws-cli-3a78977dc7f0
 https://www.youtube.com/watch?v=zqyOOyOlcAk
+-->
 -->
