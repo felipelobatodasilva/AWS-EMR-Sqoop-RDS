@@ -173,5 +173,8 @@ To initialize EMR on Cloud9, complete the following steps:
 3. Add .pem file to the directory by clicking on Upload Local Files
 <img src="https://user-images.githubusercontent.com/69978184/147831314-7b88d869-8b38-4f41-80da-316e026d289c.png" width="800" height="400"/><br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831356-540005ff-0f58-4a03-b15d-3104f189784f.png" width="800" height="400"/><br/>
+4. Type ssh -i dev.pem hadoop@(DNS from your EMR Cluster) again and now it works
+<img src="https://user-images.githubusercontent.com/69978184/147831416-97446f8d-9d45-4921-90c6-dc0d7d01fd40.png" width="800" height="400"/><br/>
+
 
 
