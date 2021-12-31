@@ -97,7 +97,7 @@ As you can see everything is working normally :)
 <!-- 
 ## Setting up Cloud9 for EC2 <a name="settingupClou9">
 
-<!-- [link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec) -->
+[link](https://towardsdatascience.com/creating-aws-ec2-and-connecting-it-with-aws-cloud9-ide-and-aws-s3-a6313aa82ec)
 More than anything, you'll need to set up Cloud9, but before that is needed to get your access key and Secret Key.
 
 For that, you just need to go through AWS Console Management and click on IAM as follows
