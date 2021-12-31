@@ -172,5 +172,6 @@ To initialize EMR on Cloud9, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/147831266-c8cbfd90-b312-4b30-9bdb-ecebbda2f96f.png" width="800" height="400"/><br/>
 3. Add .pem file to the directory by clicking on Upload Local Files
 <img src="https://user-images.githubusercontent.com/69978184/147831314-7b88d869-8b38-4f41-80da-316e026d289c.png" width="800" height="400"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/147831356-540005ff-0f58-4a03-b15d-3104f189784f.png" width="800" height="400"/><br/>
 
 
