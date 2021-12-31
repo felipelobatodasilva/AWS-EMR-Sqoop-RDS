@@ -5,6 +5,7 @@
 ● [Project Overview](#overview)<br/>
 ● [Setting up EMR](#settingupEMR)<br/>
 ● [Setting up Cloud9](#settingupClou9)
+&emsp;◌ [Linking Cloud9 to EMR via Security Group](#linkingcloud9)<br/>
 <!--● [Setting up Cloud9 for EC2](#settingupClou9)<br/>-->
 
 ## Project Overview <a name="overview"></a>
@@ -145,4 +146,4 @@ To create cloud9, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/147827427-68f67bf8-70ff-489f-9fb0-e40fc2109180.png" width="800" height="400"/><br/>
 <img src="https://user-images.githubusercontent.com/69978184/147827506-bc347e97-2c08-4c7b-aea3-eeba26e50e64.png" width="800" height="400"/><br/>
 
-
+## Linking Cloud9 to EMR via Security Group <a name="linkingcloud9"></a>
