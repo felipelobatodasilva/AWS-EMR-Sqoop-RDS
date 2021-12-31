@@ -162,3 +162,13 @@ To link both, complete the following steps:
 ## Iniatilizing EMR on Cloud9 <a name="initializingEMR"></a>
 
 To start this process go through AWS Console Management and look for Cloud9 on the search field and click on it.
+
+To initialize EMR on Cloud9, complete the following steps:
+
+1. Open IDE<br/>
+<img src="https://user-images.githubusercontent.com/69978184/147831069-d8bf69cf-290b-4022-8266-17b04cfd0619.png" width="800" height="400"/><br/>
+2. Type ssh -i dev.pem hadoop@(DNS from your EMR Cluster)
+<img src="https://user-images.githubusercontent.com/69978184/147831238-bd986340-4e53-4d4e-9f19-e5d157e2854b.png" width="800" height="400"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/147831266-c8cbfd90-b312-4b30-9bdb-ecebbda2f96f.png" width="800" height="400"/><br/>
+3. Add .pem file to the directory
+
