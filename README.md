@@ -4,7 +4,7 @@
 
 ● [Project Overview](#overview)<br/>
 ● [Setting up EMR](#settingupEMR)<br/>
-● [Setting up Cloud9](#settingupClou9)
+● [Setting up Cloud9](#settingupClou9)<br/>
 &emsp;◌ [Linking Cloud9 to EMR via Security Group](#linkingcloud9)<br/>
 <!--● [Setting up Cloud9 for EC2](#settingupClou9)<br/>-->
 
