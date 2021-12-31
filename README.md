@@ -134,6 +134,9 @@ To create an Cloud9 IDE go through AWS Console Management and look for Cloud9 on
 
 Then, you just need to click on "Create Environment" button and you'll go through to this page
 
-<img src="https://user-images.githubusercontent.com/69978184/147826177-676f6088-be4e-4fb5-8292-725a89cc2adc.png" width="800" height="400"/>
+To create cloud9, complete the following steps:
+
+1. Give a name to your environment<br/>
+<img src="https://user-images.githubusercontent.com/69978184/147826442-f082bdc5-e4c5-405e-ae93-015c4d1c097d.png" width="800" height="400"/>
 
 
