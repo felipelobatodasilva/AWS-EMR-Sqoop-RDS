@@ -129,3 +129,6 @@ https://www.youtube.com/watch?v=zqyOOyOlcAk
 ## Setting up Cloud9 <a name="settingupClou9"></a>
 
 To create an Cloud9 IDE go through AWS Console Management and look for Cloud9 on the search field and click on it.
+
+
+<img src="https://user-images.githubusercontent.com/69978184/147826098-0f856fb6-9793-4153-921e-f5947f70673e.png" width="800" height="400"/>
