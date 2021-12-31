@@ -178,6 +178,8 @@ To initialize EMR on Cloud9, complete the following steps:
 5. Type yes to Keep Going<br/>
 Even if you type yes to keep going, it is displayed a warning of permissions<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831529-6f938423-df10-493c-9490-0a1d19e273ea.png" width="800" height="250"/><br/>
+6. Type chmod 600 dev.pem
+<img src="https://user-images.githubusercontent.com/69978184/147831761-c428f6db-64fe-4c8c-8859-51f1c516ceaf.png" width="800" height="250"/><br/>
 
 
 
