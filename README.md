@@ -147,3 +147,5 @@ To create cloud9, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/147827506-bc347e97-2c08-4c7b-aea3-eeba26e50e64.png" width="800" height="400"/><br/>
 
 ### Linking Cloud9 to EMR via Security Group <a name="linkingcloud9"></a>
+
+For this great step, you may need to clone an old cluster on EMR section and then start the process
