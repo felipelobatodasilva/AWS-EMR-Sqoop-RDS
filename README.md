@@ -181,5 +181,4 @@ Even if you type yes to keep going, it is displayed a warning of permissions<br/
 6. Type chmod 600 namefile.pem<br/>
 <img src="https://user-images.githubusercontent.com/69978184/147831761-c428f6db-64fe-4c8c-8859-51f1c516ceaf.png" width="800" height="250"/><br/>
 7. Type ssh -i dev.pem hadoop@(DNS from your EMR Cluster)<br/>
-<img src="https://user-images.githubusercontent.com/69978184/147831761-c428f6db-64fe-4c8c-8859-51f1c516ceaf.png" width="800" height="250"/><br/>
-
+<img src="https://user-images.githubusercontent.com/69978184/147831876-3695ca0c-6810-4367-80df-815f5140ef12.png" width="800" height="250"/><br/>
