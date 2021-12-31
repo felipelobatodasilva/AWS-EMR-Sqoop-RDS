@@ -142,5 +142,7 @@ To create cloud9, complete the following steps:
 <img src="https://user-images.githubusercontent.com/69978184/147826721-3f2232f7-5345-4519-bc22-87581650599b.png" width="800" height="400"/><br/>
 <img src="https://user-images.githubusercontent.com/69978184/147827153-642764c5-9ea9-485c-b2b0-27a9e9788e20.png" width="800" height="400"/><br/>
 3. Review your chosen settings and click on Create Environment
-<img src="https://user-images.githubusercontent.com/69978184/147827153-642764c5-9ea9-485c-b2b0-27a9e9788e20.png" width="800" height="400"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/147827427-68f67bf8-70ff-489f-9fb0-e40fc2109180.png" width="800" height="400"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/147827506-bc347e97-2c08-4c7b-aea3-eeba26e50e64.png" width="800" height="400"/><br/>
+
 
