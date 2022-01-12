@@ -203,7 +203,7 @@ To get started with sqoop, complete the following steps
 5. Setting up environment for Sqoop<br/>
 Para isso utilize os comandos abaixo:<br/>
         ```
-        cd /usr/lib/sqoop/lib<br/>
+        cd /usr/lib/sqoop/lib &nbsp;
         sudo rm -f postgresql-jdbc.jar<br/>
         cd ~<br/>
         wget -O postgresql-jdbc.jar https://jdbc.postgresql.org/download/postgresql-42.3.1.jar<br/>
