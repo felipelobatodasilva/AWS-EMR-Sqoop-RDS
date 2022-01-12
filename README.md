@@ -208,7 +208,7 @@ Para isso utilize os comandos abaixo:<br/>
         ```wget -O postgresql-jdbc.jar https://jdbc.postgresql.org/download/postgresql-42.3.1.jar```<br/>
         ```sudo mv postgresql-jdbc.jar /usr/lib/sqoop/lib/<br/>```
 <img src="https://user-images.githubusercontent.com/69978184/149231271-57cb4a2a-f6a2-4c04-a586-8f8e1a93e079.png" width="1000" height="500"/><br/>
-6. check if your database is stopped or available<br/>
+6. Check if your database is stopped or available<br/>
 if your database is not available, you'll need to enable it again<br/>
 <img src="https://user-images.githubusercontent.com/69978184/149232147-b1d53cc0-85f4-4247-a846-bcf29a39ecbb.png" width="1000" height="500"/><br/>
 
