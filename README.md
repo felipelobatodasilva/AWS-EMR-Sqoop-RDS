@@ -185,3 +185,9 @@ Even if you type yes to keep going, it is displayed a warning of permissions<br/
 <img src="https://user-images.githubusercontent.com/69978184/147831876-3695ca0c-6810-4367-80df-815f5140ef12.png" width="800" height="250"/><br/>
 
 ## Getting Started with Sqoop <a name="gettingstarted"></a>
+
+In this last section, you'll need to clone/create your cluster on EMR, and then open your environment in AWS Cloud9
+
+![image](https://user-images.githubusercontent.com/69978184/149208735-1dfc0d71-8c95-4a97-b251-62d8cb71107a.png)
+
+
