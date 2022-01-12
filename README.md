@@ -211,5 +211,7 @@ Para isso utilize os comandos abaixo:<br/>
 6. Check if your database is stopped or available<br/>
 if your database is not available, you'll need to enable it again<br/>
 <img src="https://user-images.githubusercontent.com/69978184/149232147-b1d53cc0-85f4-4247-a846-bcf29a39ecbb.png" width="1000" height="500"/><br/>
-7. Fixing the issue with Connection when trying to connect to RDS from Sqoop<br/>
+7. Issues with Connection when trying to connect to RDS from Sqoop<br/>
 <img src="https://user-images.githubusercontent.com/69978184/149237900-a4b427b8-88e8-481a-9c7f-001f2a4d916d.png" width="1000" height="500"/><br/>
+7. Fixing the issue with the Security Group creation<br/>
+<img src="https://user-images.githubusercontent.com/69978184/149238183-5b28bb5b-dc62-465c-bca3-4fc84e28c7c6.png" width="1000" height="500"/><br/>
