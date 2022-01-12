@@ -6,9 +6,9 @@
 ● [Setting up EMR](#settingupEMR)<br/>
 ● [Setting up Cloud9](#settingupClou9)<br/>
 ● [Iniatilizing EMR on Cloud9](#initializingEMR)<br/>
+● [Getting Started with Sqoop](#gettingstarted)<br/>
 <!--&emsp;◌ [Linking Cloud9 to EMR via Security Group](#linkingcloud9)<br/>-->
 <!--● [Setting up Cloud9 for EC2](#settingupClou9)<br/>-->
-● [Getting Started with Sqoop](#gettingstarted)<br/>
 
 ## Project Overview <a name="overview"></a>
 
