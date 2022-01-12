@@ -200,7 +200,7 @@ To get started with sqoop, complete the following steps
 4. Connecting EMR in AWS Cloud9<br/>
 <img src="https://user-images.githubusercontent.com/69978184/149230586-d9ad411d-8c44-46e8-90b3-38cf16438672.png" width="1000" height="500"/><br/>
 <img src="https://user-images.githubusercontent.com/69978184/149230676-b7b3f9a3-b02f-4678-b426-146137353e31.png" width="1000" height="500"/><br/>
-
+5. Setting up environment for Sqoop<br/>
 ![image](https://user-images.githubusercontent.com/69978184/149231271-57cb4a2a-f6a2-4c04-a586-8f8e1a93e079.png)
 
 ![image](https://user-images.githubusercontent.com/69978184/149232147-b1d53cc0-85f4-4247-a846-bcf29a39ecbb.png)
