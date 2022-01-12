@@ -202,4 +202,5 @@ In this last section, you'll need to clone/create your cluster on EMR, and then 
 
 ![image](https://user-images.githubusercontent.com/69978184/149231271-57cb4a2a-f6a2-4c04-a586-8f8e1a93e079.png)
 
+![image](https://user-images.githubusercontent.com/69978184/149232147-b1d53cc0-85f4-4247-a846-bcf29a39ecbb.png)
 
