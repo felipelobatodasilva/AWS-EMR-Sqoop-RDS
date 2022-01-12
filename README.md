@@ -192,7 +192,7 @@ To get started with sqoop, complete the following steps
 
 1. Creating/Cloning Cluster
 ![image](https://user-images.githubusercontent.com/69978184/149208735-1dfc0d71-8c95-4a97-b251-62d8cb71107a.png)<br/>
-<img src="https://user-images.githubusercontent.com/69978184/149208735-1dfc0d71-8c95-4a97-b251-62d8cb71107a.png" width="1000" height="250"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/149208735-1dfc0d71-8c95-4a97-b251-62d8cb71107a.png" width="1000" height="200"/><br/>
 
 ![image](https://user-images.githubusercontent.com/69978184/149230150-d66e2536-1f73-4c5d-990c-4580530274ef.png)
 
