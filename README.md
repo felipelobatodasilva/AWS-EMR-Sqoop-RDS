@@ -215,3 +215,4 @@ if your database is not available, you'll need to enable it again<br/>
 <img src="https://user-images.githubusercontent.com/69978184/149237900-a4b427b8-88e8-481a-9c7f-001f2a4d916d.png" width="1000" height="500"/><br/>
 7. Fixing the issue with the Security Group creation<br/>
 <img src="https://user-images.githubusercontent.com/69978184/149238183-5b28bb5b-dc62-465c-bca3-4fc84e28c7c6.png" width="1000" height="500"/><br/>
+<img src="https://user-images.githubusercontent.com/69978184/149238459-7d1efbaa-264a-4fa7-92c7-53ee106d63a1.png" width="1000" height="500"/><br/>
