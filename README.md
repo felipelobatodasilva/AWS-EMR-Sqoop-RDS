@@ -211,4 +211,4 @@ Para isso utilize os comandos abaixo:<br/>
 6. Check if your database is stopped or available<br/>
 if your database is not available, you'll need to enable it again<br/>
 <img src="https://user-images.githubusercontent.com/69978184/149232147-b1d53cc0-85f4-4247-a846-bcf29a39ecbb.png" width="1000" height="500"/><br/>
-
+7. Fixing issue with Connection when trying to connect to RDS from Sqoop<br/>
