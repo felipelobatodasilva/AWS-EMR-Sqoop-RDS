@@ -217,3 +217,5 @@ if your database is not available, you'll need to enable it again<br/>
 <img src="https://user-images.githubusercontent.com/69978184/149238183-5b28bb5b-dc62-465c-bca3-4fc84e28c7c6.png" width="1000" height="500"/><br/>
 <img src="https://user-images.githubusercontent.com/69978184/149238459-7d1efbaa-264a-4fa7-92c7-53ee106d63a1.png" width="1000" height="500"/><br/>
 <img src="https://user-images.githubusercontent.com/69978184/149238618-f0c5f869-384b-40d0-a601-5ca006e2926e.png" width="1000" height="500"/><br/>
+It is not recommended to enable your inbound rules to everyone as shown below, however this way has been used just to show this project, but don't do this way
+<img src="https://user-images.githubusercontent.com/69978184/149241552-7300d0d5-6f17-4c1f-9a5d-9382146ec0cc.png" width="1000" height="500"/><br/>
