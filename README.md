@@ -220,3 +220,4 @@ if your database is not available, you'll need to enable it again<br/>
 It is not recommended to enable your inbound rules to everyone as shown below, however this way has been used just to show this project, but don't do this way
 <img src="https://user-images.githubusercontent.com/69978184/149241879-f4260be6-17c1-4b86-b1b7-87fa854dc2d9.png" width="1000" height="90"/><br/>
 8. Trying to run Sqoop again<br/>
+<img src="https://user-images.githubusercontent.com/69978184/149242109-b677ad28-fcba-45c3-a4d0-d9d398c7691e.png" width="1000" height="90"/><br/>
