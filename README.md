@@ -85,7 +85,7 @@ Then request service limit increase and open chat one of the AWS representative
  
 <img src="https://user-images.githubusercontent.com/69978184/144757884-d3342d23-64b3-49fd-a550-59e318e7c7d4.png" width="600" height="400"/>
  
-and now, the only thing you can do is just to await! :). Within some days, they're gonna give to you a feedback about your request opened.
+and now, the only thing you can do is just to await! :). Within some days, they're gonna give to you a feedback about your ticked raised.
 
 It takes a certain time to be uploaded the status of this opened case along with support team from AWS, but here is the answer coming from them:
 
